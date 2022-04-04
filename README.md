@@ -32,7 +32,7 @@ Clone or download the repository and copy the contents of the `Sources` director
 Lurker provides stellar documentation to walk you through every step of the way and any questions you may have. But, I've also included a quick reference to get you going here.
 
 ### Registering & Scheduling Tasks
-Registering and scheduling your tasks can be as short as two lines of code:
+Registering and scheduling your tasks can be as short as two lines of code. Just make sure to call Lurker's `registerMissions` function before your app finishes launching.
 
   1. Register your "missions" (background tasks).
   2. Schedule them.
