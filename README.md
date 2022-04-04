@@ -1,6 +1,10 @@
-# Lurker
-
-A dead-simple abstraction over the iOS `BackgroundTask` API to make background tasks easy to isolate, maintain and schedule.
+<p align="center">
+ <img src="https://github.com/Sam-Spencer/Lurker/raw/main/hero-icon.png" width="128" align="center">
+ <br/>
+ <h1 align="center">Lurker</h1>
+ <p align="center">A dead-simple abstraction over the <a href="https://developer.apple.com/documentation/backgroundtasks">iOS BackgroundTask API</a> to make background tasks easy to isolate, maintain and schedule.</p>
+</p>
+<br/>
 
 ## Features
 
